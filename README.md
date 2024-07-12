@@ -1,9 +1,4 @@
 https://drive.google.com/file/d/1Y4rbMdUENOPFKVAVYMAffNFZla5PSys5/view?usp=drive_link
-
-[![Video Title](https://drive.google.com/file/d/1pXN27pMlEMaReja6PsP5pPxdV5Q2IwHp/view?usp=drive_link)](https://drive.google.com/file/d/1Y4rbMdUENOPFKVAVYMAffNFZla5PSys5/view?usp=drive_link)
-
-
-
 ![Screenshot (144)](https://github.com/user-attachments/assets/7a2616d5-2b6c-4580-9860-d8867bdfc117)
 
 
