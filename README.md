@@ -1,5 +1,7 @@
 https://drive.google.com/file/d/1Y4rbMdUENOPFKVAVYMAffNFZla5PSys5/view?usp=drive_link
 
+[![Video Title](https://drive.google.com/file/d/1pXN27pMlEMaReja6PsP5pPxdV5Q2IwHp/view?usp=drive_link)](https://drive.google.com/file/d/1Y4rbMdUENOPFKVAVYMAffNFZla5PSys5/view?usp=drive_link)
+
 
 Abstract-Recognizing the importance of human computing interaction in particular vision-based gesture and object recognition is to control computers and other devices with gestures rather than pointing and clicking a mouse or touching a display directly. 
 In this project, we use the detection of hand gestures which are portrayed by a webcam linked with a computer. OpenCV is an open-source library that mainly focuses on real-time image processing. Here we capture hand movements by applying a machine learning algorithm that is pre-trained with datasets to detect hand gestures. By using the PYAUTOGUI python library we perform mouse operations accordingly.
